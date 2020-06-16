@@ -1,8 +1,11 @@
-.shrinker {
-    height: 150px;
-    width: 150px;
+.resizer{
+    height:auto;
+    max-width: 200px;
 }
 
+.image-wrapping {
+    float: left;
+}
 body {
     background-image: url('https://img.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-324.jpg?size=626&ext=jpg');
 }
