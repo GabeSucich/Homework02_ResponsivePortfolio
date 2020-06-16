@@ -3,6 +3,10 @@
     width: 150px;
 }
 
+body {
+    background-image: url('https://img.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-324.jpg?size=626&ext=jpg');
+}
+
 .footer {
     
     position:fixed;
@@ -14,7 +18,7 @@
     margin-bottom: 0px;
     text-align:center;
     padding-top: 40px;
-    height:100px;
+    height:80px;
     background-color: lightslategray;
     color:white;
 }
