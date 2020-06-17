@@ -1,6 +1,6 @@
-.resizer{
+.resized{
     height:auto;
-    max-width: 200px;
+    max-width: 100%;
 }
 
 .image-wrapping {
@@ -20,8 +20,13 @@ body {
     border-top-width:3px;
     margin-bottom: 0px;
     text-align:center;
-    padding-top: 40px;
+    padding-top: 30px;
     height:80px;
     background-color: lightslategray;
     color:white;
 }
+
+.lefted {
+    float:left;
+}
+
