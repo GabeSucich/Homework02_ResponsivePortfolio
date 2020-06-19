@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get access to this project for development and testing, go through the following steps:
 
-1. Clone the project repository by navigating to a proper directory in terminal and typing `git clone https://github.com/GabeSucich/Homework01_CodeRefactor.git`:
+1. Clone the project repository by navigating to a proper directory in terminal and typing `git clone https://github.com/GabeSucich/Homework02_ResponsivePortfolio.git`:
 
 ![image](Markdown/gitclone.png)
 
@@ -47,10 +47,9 @@ To get access to this project for development and testing, go through the follow
 - [Link to Github](https://github.com/GabeSucich)
 - [Link to LinkedIn](www.linkedin.com/in/gabriel-sucich-6a28a71a8)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/GabeSucich/Homework02_ResponsivePortfolio/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
 * Thanks to Trilogy Education Services, a 2U, Inc for providing the model website for this project.
 * Big shout out to Manuel for the detailed walkthroughs of using mark down.
-
